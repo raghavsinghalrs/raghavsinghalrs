@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavsinghalrs" alt="raghavsinghalrs" /></a> </p>
 
-- 🌱 I am currently involved in projects requiring proficiency in **HTML, JavaScript, CSS, Node.js, and Express.js.** I work diligently to apply my skills to create effective and user-friendly web solutions, ensuring a smooth and engaging experience for end-users.
+- 🌱 I'm currently working on delivering optimized backend solutions for construction application.
 
 - 📫 How to reach me **22sep2001.rs@gmail.com**
 
