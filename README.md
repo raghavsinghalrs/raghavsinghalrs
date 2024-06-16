@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Raghav Singhal</h1>
-<h3 align="center">Software Engineer @ Inncircles | NodeJs | Ex- SDE Intern @ MAQ Software</h3>
+# 👋 Hello, I'm Raghav Singhal!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavsinghalrs&label=Profile%20views&color=0e75b6&style=flat" alt="raghavsinghalrs" /> </p>
+🌟 **Experienced Software Engineer** proficient in building scalable web applications using **React** and **Node.js**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavsinghalrs" alt="raghavsinghalrs" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=raghavs-profile&color=blue)
 
-- 🌱 I'm currently working on delivering optimized backend solutions for construction application.
+---
 
-- 📫 How to reach me **22sep2001.rs@gmail.com**
+## 🚀 About Me
+I'm passionate about developing efficient, scalable, and high-performance web applications. With a strong foundation in both frontend and backend technologies, I strive to create seamless user experiences and robust applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raghavsinghal22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavsinghal22" height="30" width="40" /></a>
-</p>
+- 🌐 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghavsinghal22/)
+- 🏆 **LeetCode:** [My Profile](https://leetcode.com/u/raghavinghal22/)
+- 📧 **Email:** 22sep2001.rs@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavsinghalrs&show_icons=true&locale=en" alt="raghavsinghalrs" /></p>
+## 🔧 Technologies & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavsinghalrs&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsinghalrs&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+### 1. [Project Name](https://github.com/raghavs-profile/project1)
+Description of the project and its key features.
+
+### 2. [Project Name](https://github.com/raghavs-profile/project2)
+Description of the project and its key features.
+
+---
+
+## 🌱 What I'm Learning
+I'm currently diving deeper into building scalable web applications using **React** for web interfaces, **React Native** for mobile development, and mastering backend technologies to ensure seamless integration and performance.
+
+---
+
+## 💬 Let's Connect!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/raghavsinghal22/) or drop me an email at 22sep2001.rs@gmail.com. Let's discuss tech, collaborate on projects, or just have a chat!
+
+---
+
+“Strive not to be a success, but rather to be of value.” – Albert Einstein
