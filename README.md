@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Raghav Singhal!
 
-🌟 **Experienced Software Engineer** proficient in building scalable web applications using **React** and **Node.js**.
+🌟 **Experienced software engineer and adept problem solver, passionate about building robust solutions and advancing technology.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghavs-profile&color=blue)
 
