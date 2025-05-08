@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Raghav Singhal!
 
-🌟 Experienced software engineer and adept problem solver, passionate about building robust solutions and advancing technology.
+🌟 Building scalable web applications
 
 ![Profile Views](https://komarev.com/ghpvc/?username=raghavs-profile&color=blue)
 
